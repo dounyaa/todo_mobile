@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_baseline_add
+drawable ic_baseline_delete
+drawable ic_baseline_edit
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id fab
+id newTaskButton
+id newTaskText
+id tasksRecyclerview
+id tasksText
+id todoCheckBox
+layout activity_main
+layout activity_splash
+layout new_task
+layout task_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style DialogStyle
+style Theme.TODO
